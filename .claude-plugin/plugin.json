@@ -1,0 +1,13 @@
+{
+  "name": "website-quality-checker",
+  "description": "Webpage quality evaluator based on Google Search Quality Rater Guidelines (QRG). Inspects page purpose, MC quality, E-E-A-T, reputation, and spam signals to produce a graded report (S/A/B/C/D).",
+  "version": "1.0.0",
+  "author": {
+    "name": "llqqssttyy",
+    "url": "https://github.com/llqqssttyy"
+  },
+  "homepage": "https://github.com/llqqssttyy/website-quality-checker",
+  "repository": "https://github.com/llqqssttyy/website-quality-checker",
+  "license": "MIT",
+  "keywords": ["quality-check", "google-qrg", "eeat", "page-quality", "spam-detection", "website-audit", "seo"]
+}
