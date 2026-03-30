@@ -2,7 +2,7 @@
 
 [English](README.md) | **한국어**
 
-[Google Search Quality Rater Guidelines(QRG)](https://guidelines.raterhub.com/)를 기반으로 웹페이지 품질을 검사하는 Claude Code 스킬입니다. URL을 입력하거나 HTML/텍스트를 붙여넣으면, 6개 카테고리에 걸쳐 종합 등급(S/A/B/C/D)이 포함된 상세 보고서를 생성합니다.
+[Google Search Quality Rater Guidelines(QRG)](https://static.googleusercontent.com/media/guidelines.raterhub.com/en//searchqualityevaluatorguidelines.pdf)를 기반으로 웹페이지 품질을 검사하는 Claude Code 스킬입니다. URL을 입력하거나 HTML/텍스트를 붙여넣으면, 6개 카테고리에 걸쳐 종합 등급(S/A/B/C/D)이 포함된 상세 보고서를 생성합니다.
 
 ## 주요 기능
 

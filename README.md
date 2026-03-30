@@ -2,7 +2,7 @@
 
 **English** | [한국어](README_KO.md)
 
-A Claude Code skill that evaluates webpage quality based on [Google Search Quality Rater Guidelines (QRG)](https://guidelines.raterhub.com/). Provide a URL or paste HTML/text, and get a comprehensive quality report with a grade (S/A/B/C/D) across 6 categories.
+A Claude Code skill that evaluates webpage quality based on [Google Search Quality Rater Guidelines (QRG)](https://static.googleusercontent.com/media/guidelines.raterhub.com/en//searchqualityevaluatorguidelines.pdf). Provide a URL or paste HTML/text, and get a comprehensive quality report with a grade (S/A/B/C/D) across 6 categories.
 
 ## Key Features
 
